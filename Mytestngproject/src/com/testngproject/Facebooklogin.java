@@ -8,6 +8,8 @@ public class Facebooklogin {
 	public void loginwithvalidcrendentials()
 	{
 		System.out.println("Hi");
+		System.out.println("Hello");
+		System.out.println("How are you?");
 	}
 	
 	@Test
