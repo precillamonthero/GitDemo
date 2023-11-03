@@ -30,4 +30,12 @@ public class Facebooklogin {
 		System.out.println("hiiiiiiiiiiii");
 		System.out.println("I am in bengaluru");
 	}
+	
+	@Test
+	public void loginwitholdinvalidcrendentials()
+	{
+		System.out.println("Byeee");
+		System.out.println("hiiiiiiiiiiii");
+		System.out.println("I am in bengaluru");
+	}
 }
